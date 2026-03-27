@@ -5,8 +5,6 @@
 
 *A dev that wants to build things that matter*
 
-*Pursuing ML & Web-dev*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmar004.github.io-000000?style=flat&logo=github&logoColor=white)](https://ahmar004.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmarali2004-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmarali2004/)
 [![Email](https://img.shields.io/badge/Email-ahmarali2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmarali2004@gmail.com)
@@ -22,7 +20,7 @@ CS student at **FAST-NUCES**, Islamabad — Gold Medalist & Dean's List (Fall '2
 
 I love building **open-source tools that solve real problems** for students and learners. Currently building two platforms used by **2,200+ community members** and deep-diving into **Machine Learning**.
 
-- 🛠️ Highly interested in ML & Web-dev
+- 🛠️ Highly interested in **ML & Web-dev**
 - 🔭 Building **[OFR](https://github.com/Ahmar004/Fast_Repository)** (1600+ members) & **[OCR](https://github.com/Ahmar004/OCR)** (600+ members)
 - 🤖 Taking **Andrew Ng's ML Specialization** on Coursera
 - ⚡ Experienced with **CUDA & GPU programming** — achieved 4× speedup on a real HPC project
