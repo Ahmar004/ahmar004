@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmar004.github.io-000000?style=flat&logo=github&logoColor=white)](https://ahmar004.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmarali2004-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmarali2004/)
 [![Email](https://img.shields.io/badge/Email-ahmarali2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmarali2004@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Collaborate-brightgreen?style=flat)]()
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Collaborate-darkgreen?style=flat)]()
 
 </div>
 
@@ -37,7 +37,7 @@ I love building **open-source tools that solve real problems** for students and 
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-OpenACC-brightgreen?style=flat"/>
+      <img src="https://img.shields.io/badge/-OpenACC-darkgreen?style=flat"/>
       <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     </td>
   </tr>
@@ -47,7 +47,7 @@ I love building **open-source tools that solve real problems** for students and 
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Tailwind-06C9C4?style=flat&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
     </td>
   </tr>
