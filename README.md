@@ -93,10 +93,6 @@ I love building **open-source tools that solve real problems** for students and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmar004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmar004&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Ahmar004&theme=tokyonight&hide_border=true" />
 </div>
 
