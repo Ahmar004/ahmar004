@@ -3,7 +3,7 @@
 # Ahmar Ali
 ### Open-Source Developer · CS Student @ FAST-NUCES '27
 
-*A dev that wants to build things that matter*
+*A dev that wants to build things that matter :)*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmar004.github.io-000000?style=flat&logo=github&logoColor=white)](https://ahmar004.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmarali2004-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmarali2004/)
