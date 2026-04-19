@@ -18,7 +18,8 @@
 
 CS student at **FAST-NUCES**, Islamabad — Gold Medalist & Dean's List (Fall '23 & Spring '24).
 
-I love building **open-source tools that solve real problems** for students and learners. Currently building two platforms used by **2,200+ community members** and deep-diving into **Machine Learning**.
+I love building **open-source tools that solve real problems** for students and learners. </br>
+I am currently building two platforms used by **2,200+ community members** and deep-diving into **Machine Learning**.
 
 - 🛠️ Highly interested in **ML & Web-dev**
 - 🔭 Building **[OFR](https://github.com/Ahmar004/Fast_Repository)** (1600+ members) & **[OCR](https://github.com/Ahmar004/OCR)** (600+ members)
