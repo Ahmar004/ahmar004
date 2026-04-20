@@ -104,7 +104,7 @@ I am currently building two platforms used by **2,200+ community members** and d
 - 🥇 **Gold Medal** — Fall 2023, 1st Semester @ FAST-NUCES
 - 🥉 **Bronze Medal** — Spring 2024, 2nd Semester @ FAST-NUCES
 - ⭐ **Dean's List** — Fall 2023 & Spring 2024
-- 📜 **Certified** — Mastering DSA with C & C++ (Udemy)
+- 📜 **Certified** — Mastering DSA using C & C++ (Udemy)
 
 ---
 
