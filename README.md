@@ -1,6 +1,7 @@
 <div align="center">
 
 # Ahmar Ali
+### Full Stack Software Engineer Intern at CitrusBits
 ### Open-Source Developer · CS Student @ FAST-NUCES '27
 
 *A dev that wants to build things that matter :)*
