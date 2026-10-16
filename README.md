@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-CS student at **FAST-NUCES**, Islamabad — Gold Medalist & Dean's List (Fall '23 & Spring '24).
+CS student at **FAST-NUCES**, Islamabad - Gold Medalist & Dean's List (Fall '23 & Spring '24).
 
 I love building **open-source tools that solve real problems** for students and learners. </br>
 I am currently building two platforms used by **2,200+ community members** and deep-diving into **Machine Learning**.
@@ -25,7 +25,7 @@ I am currently building two platforms used by **2,200+ community members** and d
 - 🛠️ Highly interested in **ML & Web-dev**
 - 🔭 Building **[OFR](https://github.com/Ahmar004/Fast_Repository)** (1600+ members) & **[OCR](https://github.com/Ahmar004/OCR)** (600+ members)
 - 🤖 Taking **Andrew Ng's ML Specialization** on Coursera
-- ⚡ Experienced with **CUDA & GPU programming** — achieved 4× speedup on a real HPC project
+- ⚡ Experienced with **CUDA & GPU programming** - achieved 4× speedup on a real HPC project
 - 🌍 Based in **Islamabad, Pakistan** · Open to remote work & collaboration
 - 🏔️ When not coding: off-road adventures in the Himalayas & calisthenics
 
@@ -78,17 +78,17 @@ I am currently building two platforms used by **2,200+ community members** and d
 
 | Project | Description | Stack |
 |---|---|---|
-| [⚡ KLT Tracker — HPC](https://github.com/Ahmar004/HPC_Project) | Achieved **4× speedup** on image feature tracking using CUDA & OpenACC | CUDA · OpenACC · Python |
-| [📂 OFR — FAST Repository](https://github.com/Ahmar004/Fast_Repository) | Open-source resource hub for **1600+ FAST students** | Vanilla JS · GitHub Actions |
-| [🌐 OCR — CS Repository](https://github.com/Ahmar004/OCR) | CS learning platform for **600+ members** globally | Vanilla JS · GitHub Actions |
+| [⚡ KLT Tracker - HPC](https://github.com/Ahmar004/HPC_Project) | Achieved **4× speedup** on image feature tracking using CUDA & OpenACC | CUDA · OpenACC · Python |
+| [📂 OFR - FAST Repository](https://github.com/Ahmar004/Fast_Repository) | Open-source resource hub for **1600+ FAST students** | Vanilla JS · GitHub Actions |
+| [🌐 OCR - CS Repository](https://github.com/Ahmar004/OCR) | CS learning platform for **600+ members** globally | Vanilla JS · GitHub Actions |
 | [🇵🇸 Palestine-Bleeds](https://ahmar004.github.io/Palestine-Bleeds/) | Awareness website, remote collab with 2 devs | React · Node.js · Tailwind |
-| [🎮 Xonix — Arcade Game](https://github.com/Ahmar004/DSA_Project) | Multiplayer arcade game built with DSA concepts | C++ · SFML |
-| [🔍 Brute — Plagiarism Detector](https://github.com/Ahmar004/Programming-Fundamentals/tree/Project) | Plagiarism detection in plain C | C · Algorithms |
-| 🏠 Rent-Ease — Property Platform | Rental & property buying platform with full GUI | JavaFX · Java |
-| 🔒 Cipher — File Encryption App | Desktop app for encrypting/decrypting files | C++ · RayLib |
-| ❌ Tic Tac Toe — Multiplayer | Multiplayer game built with OOP principles | C++ · RayLib |
-| ✅ Task-It — To-Do List App | Task management desktop application | C++ · RayLib |
-| 🌍 Portfolio Website | Personal portfolio — ongoing, built with React | React · GitHub Pages |
+| [🎮 Xonix - Arcade Game](https://github.com/Ahmar004/DSA_Project) | Multiplayer arcade game built with DSA concepts | C++ · SFML |
+| [🔍 Brute - Plagiarism Detector](https://github.com/Ahmar004/Programming-Fundamentals/tree/Project) | Plagiarism detection in plain C | C · Algorithms |
+| 🏠 Rent-Ease - Property Platform | Rental & property buying platform with full GUI | JavaFX · Java |
+| 🔒 Cipher - File Encryption App | Desktop app for encrypting/decrypting files | C++ · RayLib |
+| ❌ Tic Tac Toe - Multiplayer | Multiplayer game built with OOP principles | C++ · RayLib |
+| ✅ Task-It - To-Do List App | Task management desktop application | C++ · RayLib |
+| 🌍 Portfolio Website | Personal portfolio - ongoing, built with React | React · GitHub Pages |
 
 ---
 
@@ -102,10 +102,10 @@ I am currently building two platforms used by **2,200+ community members** and d
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medal** — Fall 2023, 1st Semester @ FAST-NUCES
-- 🥉 **Bronze Medal** — Spring 2024, 2nd Semester @ FAST-NUCES
-- ⭐ **Dean's List** — Fall 2023 & Spring 2024
-- 📜 **Certified** — Mastering DSA using C & C++ (Udemy)
+- 🥇 **Gold Medal** - Fall 2023, 1st Semester @ FAST-NUCES
+- 🥉 **Bronze Medal** - Spring 2024, 2nd Semester @ FAST-NUCES
+- ⭐ **Dean's List** - Fall 2023 & Spring 2024
+- 📜 **Certified** - Mastering DSA using C & C++ (Udemy)
 
 ---
 
@@ -113,6 +113,6 @@ I am currently building two platforms used by **2,200+ community members** and d
 
 *"Let's build something remarkable."*
 
-**Always open to work, collaborate, or contribute to open-source — feel free to reach out anytime.**
+**Always open to work, collaborate, or contribute to open-source - feel free to reach out anytime.**
 
 </div>
